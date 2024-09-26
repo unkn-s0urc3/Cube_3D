@@ -1,0 +1,3 @@
+D:/Projects/DEVELOPMENT/Cube_3D/cmake-build-debug/CMakeFiles/Cube_3D.dir
+D:/Projects/DEVELOPMENT/Cube_3D/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DEVELOPMENT/Cube_3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
